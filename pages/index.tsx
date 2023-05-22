@@ -134,7 +134,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span className="opacity-50">Powered by</span>{" "}
+          <span className="opacity-50">Technology Preview Powered by</span>{" "}
           <span
             className={classNames(spaceGrotesk.className)}
             style={{ color: client.appThemeColor }}
@@ -142,7 +142,7 @@ const Home: NextPage = () => {
             <span className="opacity-50">Good. Fast. Cheap. LLC </span>
           </span>
         </a>
-            <span className="opacity-50">&nbsp;- Copyright 2023</span>
+            <span className="opacity-50">&nbsp;- Copyright 2023. All Rights Reserved</span>
       </footer>
     </div>
   );
