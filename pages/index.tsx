@@ -139,7 +139,7 @@ const Home: NextPage = () => {
             className={classNames(spaceGrotesk.className)}
             style={{ color: client.appThemeColor }}
           >
-            OhMyGPT
+            Good Fast Cheap
           </span>
         </a>
       </footer>
