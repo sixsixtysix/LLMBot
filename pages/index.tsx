@@ -130,7 +130,7 @@ const Home: NextPage = () => {
       <footer className="flex h-24 w-full items-center justify-center">
         <a
           className="flex items-center justify-center gap-2"
-          href="https://github.com/noobnooc/ohmygpt"
+          href="https://goodfastcheap.ai"
           target="_blank"
           rel="noopener noreferrer"
         >
