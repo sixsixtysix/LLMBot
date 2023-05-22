@@ -142,7 +142,7 @@ const Home: NextPage = () => {
             <span className="opacity-50">Good. Fast. Cheap. LLC </span>
           </span>
         </a>
-            <span className="opacity-50">- Copyright 2023</span>
+            <span className="opacity-50">&nbsp;- Copyright 2023</span>
       </footer>
     </div>
   );
